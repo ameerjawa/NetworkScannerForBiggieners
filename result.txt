@@ -1,0 +1,54 @@
+
+
+ Host-> 192.168.1.1
+
+ Host-> 192.168.1.27
+
+ Host-> 192.168.1.16
+
+ Host-> 192.168.1.14
+
+ Host-> 192.168.1.12
+
+ Host-> 192.168.1.1
+
+ Host-> 192.168.1.27
+
+ Host-> 192.168.1.16
+
+ Host-> 192.168.1.12
+
+ Host-> 192.168.1.14
+
+ Host-> 192.168.1.1
+
+ Host-> 192.168.1.28
+
+ Host-> 192.168.1.27
+
+ [*] port 20 is closed
+[*] port 21 is closed
+[*] port 22 is closed
+[*] port 23 is closed
+[*] port 25 is open
+[*] port 53 is closed
+[*] port 67 is closed
+[*] port 68 is closed
+[*] port 80 is closed
+[*] port 110 is closed
+[*] port 119 is closed
+[*] port 123 is closed
+[*] port 143 is closed
+[*] port 161 is closed
+[*] port 194 is closed
+[*] port 443 is closed
+
+ Host-> 192.168.1.1
+
+ Host-> 192.168.1.12
+
+ Host-> 192.168.1.11
+
+ Host-> 192.168.1.16
+
+ Host-> 192.168.1.29
